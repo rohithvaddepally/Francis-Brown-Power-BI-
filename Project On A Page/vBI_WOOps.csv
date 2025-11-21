@@ -1,0 +1,1231 @@
+﻿WONo,Status,Project,Qty,QtyRec,QtyOS,ActualFinishDate,TotalQtyRecDate,Priority,PartNo,PartDesc,PartGroupCode,OpNo,OpDesc,WC,PlannedSetUp,PlannedRun,BookedSet,BookedRun,OpComplete,OpQtyBooked
+17551,Created,A REED,1,0,1,null,null,null,E/15433-3,Manufacturing drawings amalgamating conflicting details from Vesco and CDS drawings,Structural,10,null,GENERAL,0,0,0,0,FALSE,0
+17551,Created,A REED,1,0,1,null,null,null,E/15433-3,Manufacturing drawings amalgamating conflicting details from Vesco and CDS drawings,Structural,20,DESIGN & DRAWING,SUBCON,0,0,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,40,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,70,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17550,Created,null,1,0,1,null,null,null,E/15940-4,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,150,DO NOT USE THESE HOURS.,GENERAL,0,17.25,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,10.78333334,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,40,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,70,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17549,WIP,null,1,0,1,null,null,null,E/15940-3,"32"" UNIT
+ 
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,150,DO NOT USE THESE HOURS.,GENERAL,0,17.25,0,0,TRUE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,10,null,GENERAL,0,0,0,3.25,TRUE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,13.15,TRUE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,40,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,8.51666667,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,70,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17548,WIP,null,1,0,1,null,null,null,E/15940-2,"32"" UNIT
+ 
+
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,150,DO NOT USE THESE HOURS.,GENERAL,0,17.25,0,0,TRUE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,6.41666667,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,40,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0.13333333,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,70,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17547,WIP,null,1,0,1,null,null,null,E/15940-1,"32"" UNIT
+
+[welding of round blocks, bumper bar, fab weld of ROV grab handle]",Vessels and Pipework,150,DO NOT USE THESE HOURS.,GENERAL,0,17.25,0,0,TRUE,0
+17546,Created,A BLACKWOOD,1,0,1,null,null,null,E/15931-1,WINCANTON - HEINZ - CRANE CRACK REPAIR,Site work,10,null,GENERAL,0,44,0,0,FALSE,0
+17546,Created,A BLACKWOOD,1,0,1,null,null,null,E/15931-1,WINCANTON - HEINZ - CRANE CRACK REPAIR,Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17545,Created,null,1,0,1,null,null,null,E/15806-1,HEAT EXCHANGER PARTS - PM8 SHELL,Vessels and Pipework,3,PLATER,PLATE,0,7.61722222,0,0,FALSE,0
+17545,Created,null,1,0,1,null,null,null,E/15806-1,HEAT EXCHANGER PARTS - PM8 SHELL,Vessels and Pipework,4,WELDER,WELD,0,7.98444444,0,0,FALSE,0
+17545,Created,null,1,0,1,null,null,null,E/15806-1,HEAT EXCHANGER PARTS - PM8 SHELL,Vessels and Pipework,5,DRILL / MACHINE,MACHINE,0,5.81722222,0,0,FALSE,0
+17545,Created,null,1,0,1,null,null,null,E/15806-1,HEAT EXCHANGER PARTS - PM8 SHELL,Vessels and Pipework,10,GENERAL,GENERAL,0,5.21888889,0,0,FALSE,0
+17545,Created,null,1,0,1,null,null,null,E/15806-1,HEAT EXCHANGER PARTS - PM8 SHELL,Vessels and Pipework,1000,NDT,SUBCON,0,0,0,0,FALSE,0
+17544,WIP,null,1,0,1,null,null,null,E/15802-3,REMEDIAL WORK,Structural,10,null,GENERAL,0,0,0,7.41666667,FALSE,0
+17543,Created,null,1,0,1,null,null,null,E/15802-2,REMEDIAL WORK,Structural,10,Manufacture 10783 Pipe Spool omitted from original works order,GENERAL,0,0,0,0,FALSE,0
+17542,WIP,5. C SHIELS,1,0,1,null,null,null,E/15854-2,SOUTH BANK QUAY - SHEET PILES - NOVEMBER,Structural,10,null,GENERAL,0,360,0,218.5,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,10,FIT THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,PLATE,0,3,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,20,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,30,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,40,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,50,PREP THE 6no ACTUATOR CUT OUTS IN THE RISER STRUCTURE.,PLATE,0,21,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,60,FIT & BRACE THE 6no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,14,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,80,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,110,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17541,Created,null,1,0,1,null,null,null,E/15918-6,"32"" BSDL",Structural,190,DO NOT USE THESE HOURS.,GENERAL,0,26.5,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,10,FIT THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,PLATE,0,3,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,20,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,30,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,40,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,50,PREP THE 6no ACTUATOR CUT OUTS IN THE RISER STRUCTURE.,PLATE,0,21,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,60,FIT & BRACE THE 6no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,14,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,80,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,110,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17540,Created,null,1,0,1,null,null,null,E/15918-5,"32"" BSDL",Structural,190,DO NOT USE THESE HOURS.,GENERAL,0,26.5,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,10,FIT THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,PLATE,0,3,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,20,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,30,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,40,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,50,PREP THE 6no ACTUATOR CUT OUTS IN THE RISER STRUCTURE.,PLATE,0,21,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,60,FIT & BRACE THE 6no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,14,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,80,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,110,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17539,Created,null,1,0,1,null,null,null,E/15918-4,"32"" BSDL",Structural,190,DO NOT USE THESE HOURS.,GENERAL,0,26.5,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,10,FIT THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,PLATE,0,3,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,20,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,30,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,40,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,50,PREP THE 6no ACTUATOR CUT OUTS IN THE RISER STRUCTURE.,PLATE,0,21,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,60,FIT & BRACE THE 6no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,14,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,80,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,110,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17538,Created,null,1,0,1,null,null,null,E/15918-3,"32"" BSDL",Structural,190,DO NOT USE THESE HOURS.,GENERAL,0,26.5,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,10,FIT THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,PLATE,0,3,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,20,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,30,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,40,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,50,PREP THE 6no ACTUATOR CUT OUTS IN THE RISER STRUCTURE.,PLATE,0,21,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,60,FIT & BRACE THE 6no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,14,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,80,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,110,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17537,Created,null,1,0,1,null,null,null,E/15918-2,"32"" BSDL",Structural,190,DO NOT USE THESE HOURS.,GENERAL,0,26.5,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,10,FIT THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,PLATE,0,3,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,20,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,30,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,13.75,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,40,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,1.75,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,50,PREP THE 6no ACTUATOR CUT OUTS IN THE RISER STRUCTURE.,PLATE,0,21,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,60,FIT & BRACE THE 6no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,14,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,80,WELD THE 6no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,18.5,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,4.5,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,110,N.D.T. THE 6no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,6.5,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17536,Created,null,1,0,1,null,null,null,E/15918-1,"32"" BSDL",Structural,190,DO NOT USE THESE HOURS.,GENERAL,0,26.5,0,0,FALSE,0
+17535,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,VOR 22-075,ADDITIONAL HOURS AND MATERIALS AGAINST  TQ SO6402-003,Structural,1,MATERIAL,SUBCON,0,0,0,0,TRUE,0
+17535,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,VOR 22-075,ADDITIONAL HOURS AND MATERIALS AGAINST  TQ SO6402-003,Structural,10,ADDITIONAL HOURS,PLATE,0,5,0,0,TRUE,0
+17534,WIP,DAVE McNEIL,1,0,1,null,null,null,E/15837-1,"DIRT CYCLONE LOWER SECTION REPAIRS
+- INSTALLATION OF CYCLONE LOWER SECTION",Structural,4,WELDER,WELD,0,537.5,0,4.9,FALSE,0
+17534,WIP,DAVE McNEIL,1,0,1,null,null,null,E/15837-1,"DIRT CYCLONE LOWER SECTION REPAIRS
+- INSTALLATION OF CYCLONE LOWER SECTION",Structural,5,DRILL / MACHINE,MACHINE,0,3.83444444,0,0,FALSE,0
+17534,WIP,DAVE McNEIL,1,0,1,null,null,null,E/15837-1,"DIRT CYCLONE LOWER SECTION REPAIRS
+- INSTALLATION OF CYCLONE LOWER SECTION",Structural,1000,HEAT TREATMENT,SUBCON,0,0,0,0,FALSE,0
+17534,WIP,DAVE McNEIL,1,0,1,null,null,null,E/15837-1,"DIRT CYCLONE LOWER SECTION REPAIRS
+- INSTALLATION OF CYCLONE LOWER SECTION",Structural,1010,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17533,Completed,S ARMSTRONG,1,1,0,07/11/2022 00:00:00,07/11/2022 00:00:00,null,E/15296-8,"VARIATION TO ORDER
+VO 22-046 REV 2
+
+RENEW / WOOD SUPPLIER COST INCREASES FROM PO AWARD TO PLACING ORDERS
+
+COST INCREASES: 100-TK-001 / 100-VE-009 / 150-VE-001",Vessels and Pipework,10,null,GENERAL,0,0,0,0,TRUE,0
+17532,Completed,S ARMSTRONG,1,1,0,07/11/2022 00:00:00,07/11/2022 00:00:00,null,E/15296-7,"VARIATION TO ORDER
+VO 22-041 REV 2
+
+RENEW / WOOD OIL WATER SEPARATOR VESSEL 160-VE-001 COST INCREASE
+
+CHANGES AND ADDITIONS TO THE DRAWINGS / DATA SHEET",Vessels and Pipework,10,null,GENERAL,0,0,0,0,TRUE,0
+17531,WIP,G SKELTON,1,0,1,null,null,null,E/15849-1,MODEL CA55 HEAT EXCHANGER PARTS,Vessels and Pipework,3,PLATER,PLATE,0,12.33444444,0,0,FALSE,0
+17531,WIP,G SKELTON,1,0,1,null,null,null,E/15849-1,MODEL CA55 HEAT EXCHANGER PARTS,Vessels and Pipework,4,WELDER,WELD,0,26.71722222,0,0,FALSE,0
+17531,WIP,G SKELTON,1,0,1,null,null,null,E/15849-1,MODEL CA55 HEAT EXCHANGER PARTS,Vessels and Pipework,5,DRILL / MACHINE,MACHINE,0,23.06888889,0,0,FALSE,0
+17531,WIP,G SKELTON,1,0,1,null,null,null,E/15849-1,MODEL CA55 HEAT EXCHANGER PARTS,Vessels and Pipework,10,GENERAL,GENERAL,0,15.58444444,0,0,FALSE,0
+17531,WIP,G SKELTON,1,0,1,null,null,null,E/15849-1,MODEL CA55 HEAT EXCHANGER PARTS,Vessels and Pipework,1000,NDT,SUBCON,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,10,RECEIPT AND INSPECTION OF GOODS,INSPECT,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,20,ASSEMBLE & TACK PARTS 202 TO 201 X 12 OFF,PLATE,0,6.6,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,30,PRE-WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,40,WELD ASSEMBLED ITEMS 201 TO 202 X 12 OFF,WELD,0,1.91888889,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,50,POST WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,60,NDT,SUBCON,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,70,HOLD POINT - CLIENT RELEASE TO PAINT/STENCIL,INSPECT,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,80,"DELIVER TO PAINTERS
+12 OFF ASSEMBLIES 
+  1 OFF PACKING CASE",GENERAL,0,1,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,90,HOLD POINT - CLIENT INSPECTION & RELEASE AT PAINTERS,INSPECT,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,100,COLLECT FROM PAINTERS AND RETURN TO FBL,GENERAL,0,1,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,110,HOLD POINT - CLIENT RELEASE TO SHIP,INSPECT,0,0,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,120,PACK ALL 12 INTO PACKING CASE,GENERAL,0,2,0,0,FALSE,0
+17530,Created,null,1,0,1,null,null,null,E/15830-4,JIG S49234,Structural,130,DELIVERY TO CLIENT BY FBL,GENERAL,0,0,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,10,RECEIPT AND INSPECTION OF MATERIALS,INSPECT,0,2,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,20,MACHINING,SUBCON,0,0,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,30,MARK THE THREE (3) SPLIT LINES TO ITEM 210 AND ROLL TO 6313MM INSIDE RADIUS,PLATE,0,3,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,40,VISUAL AND DIMENSIONAL INSPECT ITEM 210,INSPECT,0,1,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,50,MARK AND CUT STITCHES TO INTERNAL EDGE OF 210 AND DRESS,PLATE,0,4,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,60,"POSITION SUPPORT PADS 205, 206 & 207, LOCATION ARMS 105 & 106, JOINT PLATE 204 AND TRANSFER HOLES.
+MARK ON SCRIBE LINES AS NOTE 9 OF DRG. 1045604/0008",PLATE,0,22.65,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,70,VISUAL & DIMENSIONAL INSPECTION OF HOLE POSITIONS PRIOR TO DRILLING,INSPECT,0,3,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,80,DRILL ALL TRANSFERRED HOLES INTO ITEM 210,MACHINE,0,19.7,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,90,"SPLIT ITEM 210 INTO ITEM 202,203 & 204 AND IDENTIFY",PLATE,0,4,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,100,HOLD POINT - CLIENT/3RD PARTY INSPECTION FOR RELEASE TO PAINT,INSPECT,0,0,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,110,TRANSPORT OF PARTS AND STORAGE BOX TO PAINTERS,GENERAL,0,2,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,120,PAINT,SUBCON,0,0,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,130,HOLD POINT - CLIENT / 3RD PARTY INSPECTION POST PAINTING,INSPECT,0,0,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,140,HOLD POINT - CLIENT INSPECTION FOR RELEASE TO SHIP,INSPECT,0,0,0,0,FALSE,0
+17529,Created,null,1,0,1,null,null,null,E/15830-3,JIG S49213,Structural,150,DELIVERY TO CLIENT,GENERAL,0,6,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,10,VISUAL & DIMENSIONAL INSPECTION OF ALL PARTS & PREPARE DIMS REPORT,INSPECT,0,2,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,20,CLIENT / 3RD PARTY INSPECTION TO RELEASE FOR PAINTING,INSPECT,0,0,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,30,DELIVER 20 OFF ITEM 201 TO PAINTERS & 2 CRATES,GENERAL,0,2,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,40,HOLD POINT -INSPECT AT PAINTERS & CLIENT 3RD PARTY INSPECTION,INSPECT,0,4,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,50,COLLECT FROM PAINTERS POST CLIENT RELEASE TO FBL,GENERAL,0,2,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,60,"PACK 1 OFF ITEM 202 INTO EACH PACKING CASE AND 10 OFF 201 INTO 202.
+",GENERAL,0,2,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,70,HOLD POINT - CLIENT RELEASE TO SHIP,INSPECT,0,0,0,0,FALSE,0
+17528,Created,null,1,0,1,null,null,null,E/15830-2,JIG S49301,Structural,80,DELIVERY BY FBL TO CLIENT,GENERAL,0,0,0,0,FALSE,0
+17527,Completed,null,1,1,0,03/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15012-8,"Final Variation Extra Labour Charges as
+agreed with Alex Blackwood and
+Debbie Robinson",Site work,10,null,GENERAL,0,0,0,0,TRUE,0
+17526,Completed,null,1,1,0,08/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15912-1,WINCANTON HEINZ - CRANE CRACK REPAIR,Site work,10,null,GENERAL,0,41,0,30.5,FALSE,0
+17526,Completed,null,1,1,0,08/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15912-1,WINCANTON HEINZ - CRANE CRACK REPAIR,Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17526,Completed,null,1,1,0,08/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15912-1,WINCANTON HEINZ - CRANE CRACK REPAIR,Site work,1010,HIRE EQUIPMENT,SUBCON,0,0,0,0,FALSE,0
+17526,Completed,null,1,1,0,08/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15912-1,WINCANTON HEINZ - CRANE CRACK REPAIR,Site work,1020,NDT,SUBCON,0,0,0,0,FALSE,4
+17525,Completed,null,1,1,0,01/11/2022 00:00:00,01/11/2022 00:00:00,null,E/15244-12,Transport Costs for collection of second set of Tees from Scunthorpe,Structural,10,null,GENERAL,0,0,0,0,TRUE,0
+17524,WIP,null,1,0,1,null,null,null,E/15598-44,ADVANCED PAYMENT GUARANTEE CHARGES,Structural,10,null,GENERAL,0,0,0,0,FALSE,0
+17523,Completed,null,1,1,0,31/10/2022 00:00:00,31/10/2022 00:00:00,null,E/15244-11,Transport costs for delivery of second set of Tees to Scunthorpe,SALES,10,null,GENERAL,0,0,0,0,TRUE,0
+17522,Created,null,1,0,1,null,null,null,E/15403-5,"Variation to Order
+
+VO 22-060 - Material Adjustment Costs
+",SALES,10,null,GENERAL,0,0,0,0,FALSE,0
+17521,Created,null,1,0,1,null,null,null,E/15906-1,AHH2 WET-MATE RETROFIT PROJECT,Structural,10,GENERAL,GENERAL,0,0,0,0,FALSE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,14.5,0,17.78333333,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,40,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,28.5,0,19.21666666,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2.25,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,6.75,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,70,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0.75,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,7.91666667,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,10.25,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17520,Completed,null,1,1,0,10/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-5,32” Riser 4 Welding & Handling,Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,TRUE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,14.5,0,12.93333333,TRUE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2,0,0,TRUE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,40,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,28.5,0,15.36666666,TRUE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2.25,0,4.78333333,TRUE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,6.75,0,0,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,70,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,14.31666666,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,10.25,0,3.63333333,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17519,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-4,32” Riser 3 Welding & Handling.,Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,14.5,0,10.73333334,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2,0,0.95,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,40,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,28.5,0,19.03333333,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2.25,0,2.63333333,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,6.75,0,0,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,70,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,7.76666667,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,10.25,0,13.01666666,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17518,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-3,32” Riser 2 Welding & Handling,Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,20,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,14.5,0,14.85,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,30,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2,0,0,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,40,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,28.5,0,16.81666666,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,50,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2.25,0,0,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,60,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,6.75,0,0,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,70,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,80,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL IT UP.,PLATE,0,1.5,0,0,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,90,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,6,0,3.65,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,110,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,10.25,0,4.7,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,120,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,130,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17517,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-2,32” Riser 1 Welding & Handling.,Vessels and Pipework,140,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0.75,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,3,PLATER,PLATE,0,0,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,4,WELDER,WELD,0,0,0,3.38333333,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,10,RECEIVE AND CHECK MATERIALS INCLUDING HANDLING.,GENERAL,0,2.25,0,5.9,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,20,"CUT & PREP THE Item 1 PIPES FOR THE 6"" PULLING HEADS.",MACHINE,0,11.75,0,9.16666667,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,30,"DRESS THE EXPOSED EDGES ON Items 3,4 & 6 ON THE 6"" HEADS.",GENERAL,0,2.25,0,5.31666667,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,40,"FABRICATE THE Item 2/4/5 SUB-ASSEMBLY ON THE 6"" HEADS.",PLATE,0,3.5,0,3.56666667,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,50,PRE-WELD DIMENSIONAL CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,60,"WELD THE Item 2/4/5 SUB-ASSEMBLY ON THE 6"" HEADS.",WELD,0,1.5,0,2.33333333,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,70,"N.D.T. THE Item 2/4/5 SUB-ASSEMBLY ON THE 6"" HEADS.",SUBCON,0,0,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,80,"FIT THE Item 2/4/5 SUB-ASS & Item 7 TO Item 1 ON THE 6"" HEADS.",PLATE,0,7.5,0,13.16666666,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,90,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,100,"WELD THE Item 2/4/5 SUB-ASS & Item 7 TO Item 1 ON THE 6"" HEADS.",WELD,0,33.25,0,50.36666665,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,110,N.D.T. THE Item 2 & Item 7 TO Item 1 CONNECTION WELDS.,SUBCON,0,0,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,120,"FIT Item 3 & 6 PLATES TO THE 1/2/4/5/7 SUB-ASS ON THE 6"" HEADS.",PLATE,0,15.5,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,130,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,140,"WELD Item 3 & 6 PLATES TO THE 1/2/4/5/7 SUB-ASS ON THE 6"" HEADS.",WELD,0,39,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,150,"FINAL DIMENSIONAL & VISUAL INSPECTION OF THE 6"" HEADS.",INSPECT,0,1.5,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,160,"COMPLETE THE REMAINING N.D.T. ON THE 6"" HEADS.",SUBCON,0,0,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,170,"CUT & PREP THE Item 1 PIPES FOR THE 8"" PULLING HEADS.",MACHINE,0,14,0,7.3,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,180,"DRESS THE EXPOSED EDGES ON Items 2,5 & 6 ON THE 8"" HEADS.",GENERAL,0,2.5,0,2.68333333,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,190,"FABRICATE THE Item 3/6/7 SUB-ASSEMBLY ON THE 8"" HEADS.",PLATE,0,3.5,0,2.5,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,200,PRE-WELD DIMENSIONAL CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,210,"WELD THE Item 3/6/7 SUB-ASSEMBLY ON THE 8"" HEADS.",WELD,0,2.5,0,1.38333333,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,220,"N.D.T. THE Item 3/6/7 SUB-ASSEMBLY ON THE 8"" HEADS.",SUBCON,0,0,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,230,"FIT THE Item 3/6/7 SUB-ASS & Item 4 TO Item 1 ON THE 8"" HEADS.",PLATE,0,7.5,0,12.71666668,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,240,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,250,"WELD THE Item 3/6/7 SUB-ASS & Item 4 TO Item 1 ON THE 8"" HEADS.",WELD,0,42,0,52.01666668,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,260,N.D.T. THE Item 3 & Item 4 TO Item 1 CONNECTION WELDS.,SUBCON,0,0,0,0,TRUE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,270,"FIT Item 2 & 5 PLATES TO THE 1/3/4/6/7 SUB-ASS ON THE 8"" HEADS.",PLATE,0,19.25,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,280,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,290,"WELD Item 2 & 5 PLATES TO THE 1/3/4/6/7 SUB-ASS ON THE 8"" HEADS.",WELD,0,48.75,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,300,"FINAL DIMENSIONAL & VISUAL INSPECTION OF THE 8"" HEADS.",INSPECT,0,1.5,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,310,"COMPLETE THE REMAINING N.D.T. ON THE 8"" HEADS.",SUBCON,0,0,0,0,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,320,FIT THE FLANGE PROTECTION AND LOAD FOR DELIVERY.,GENERAL,0,2,0,1.5,FALSE,0
+17516,WIP,null,1,0,1,null,null,null,E/15877-1,BARREL FABRICATION & WELDING,Structural,1020,MACHINING,SUBCON,0,0,0,0,FALSE,5
+17515,Completed,null,1,1,0,31/10/2022 00:00:00,31/10/2022 00:00:00,null,E/14891-19,"VARIATION TO ORDER
+
+VO 22-073 - OCTOBER STORAGE OF VESSELS 5 & 6 ",SALES,10,null,GENERAL,0,0,0,0,TRUE,0
+17514,Completed,5. C SHIELS,1,1,0,31/10/2022 00:00:00,31/10/2022 00:00:00,null,E/15900-1,SITE WELD REPAIRS TO CYCLONE CONE FLANGE,Site work,10,null,GENERAL,0,60,0,60.75,TRUE,0
+17514,Completed,5. C SHIELS,1,1,0,31/10/2022 00:00:00,31/10/2022 00:00:00,null,E/15900-1,SITE WELD REPAIRS TO CYCLONE CONE FLANGE,Site work,1000,HIRE EQUIPMENT,SUBCON,0,0,0,0,TRUE,8
+17513,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-1,"WELDING OF 32"" BSDL",Vessels and Pipework,10,WELD THE SOLID BARS TO THE BELLMOUTHS ON ALL 4 UNITS,WELD,0,0,0,0,TRUE,0
+17513,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-1,"WELDING OF 32"" BSDL",Vessels and Pipework,20,UNIT 'A' - WELD THE NOZZLE ASSEMBLIES,WELD,0,0,0,0,TRUE,0
+17513,Completed,null,1,1,0,09/11/2022 00:00:00,09/11/2022 00:00:00,null,E/15897-1,"WELDING OF 32"" BSDL",Vessels and Pipework,30,UNIT 'D' - WELD THE NOZZLE ASSEMBLIES,WELD,0,0,0,0,TRUE,0
+17512,Created,A REED,1,0,1,null,null,null,E/15797-16,Transport costs for delivery of 3 x 48” units to FES Jubilee site,SALES,10,null,GENERAL,0,0,0,0,FALSE,0
+17511,Created,A REED,1,0,1,null,null,null,E/15797-15,"VARIATION TO ORDER
+
+VOR 22-068 Additional welding time for item 5 so it is filled out flush to the underside",SALES,10,null,GENERAL,0,0,0,0,FALSE,0
+17510,Created,A REED,1,0,1,null,null,null,E/15797-14,"VARIATION TO ORDER
+
+VOR 22-072 Additional time to carry out flushing of internal welds on 6 units as requested by FES",SALES,10,null,GENERAL,0,0,0,0,FALSE,0
+17509,Completed,A REED,1,1,0,24/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15244-10,Transport Costs - collect 1st set Tees Scunthorpe 24.10.22,SALES,10,null,GENERAL,0,0,0,0,TRUE,0
+17508,Created,A BLACKWOOD,1,0,1,null,null,null,E/15895-1,REMA - DEMATIC SPARE PARTS and MANUAL REQUESTS,Structural,10,null,GENERAL,0,0,0,0,FALSE,0
+17507,Created,null,1,0,1,null,null,null,E/15589-6,"ON-SITE WELDING OF TOP RAIL JOINTS
+DECEMBER",ON SITE ONLY,10,null,GENERAL,0,0,0,0,FALSE,0
+17506,WIP,null,1,0,1,null,null,null,E/15589-5,"ON-SITE WELDING OF TOP RAIL JOINTS
+NOVEMBER",ON SITE ONLY,10,null,GENERAL,0,230,0,101.5,FALSE,0
+17506,WIP,null,1,0,1,null,null,null,E/15589-5,"ON-SITE WELDING OF TOP RAIL JOINTS
+NOVEMBER",ON SITE ONLY,20,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17505,Created,G SKELTON,1,0,1,null,null,null,E/15684-9,"VARIATION TO ORDER 
+VO 22-067",SALES,10,null,GENERAL,0,0,0,0,FALSE,0
+17504,Created,G SKELTON,1,0,1,null,null,null,E/15684-8,"VARIATION TO ORDER
+VO 22-059
+",SALES,10,null,GENERAL,0,0,0,0,FALSE,0
+17503,Completed,A REED,1,1,0,24/10/2022 00:00:00,19/10/2022 00:00:00,null,E/15244-9,"Transport to return 1st set of 2 x 30"" tees for PT 19.10.22",SALES,10,null,GENERAL,0,0,0,0,TRUE,0
+17502,Completed,null,1,1,0,03/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15860-1,DEMATIC Crane Crack Repairs,Site work,10,null,GENERAL,0,39,0,25,TRUE,0
+17502,Completed,null,1,1,0,03/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15860-1,DEMATIC Crane Crack Repairs,Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,TRUE,0
+17502,Completed,null,1,1,0,03/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15860-1,DEMATIC Crane Crack Repairs,Site work,1010,HIRE EQUIPMENT,SUBCON,0,0,0,0,TRUE,13
+17502,Completed,null,1,1,0,03/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15860-1,DEMATIC Crane Crack Repairs,Site work,1020,NDT,SUBCON,0,0,0,0,TRUE,1
+17502,Completed,null,1,1,0,03/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15860-1,DEMATIC Crane Crack Repairs,Site work,1030,HIRE EQUIPMENT,SUBCON,0,0,0,0,FALSE,2
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,10,RECEIVE AND CHECK MATERIALS INCLUDING HANDLING.,GENERAL,0,1,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,20,PRE-ASSEMBLY MACHINING ON ITEMS 1 & 2.,MACHINE,0,14,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,30,"SAW CUT, FACE OFF & PREP THE ITEM 6 & 7 (2off) PIPES.",MACHINE,0,2,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,40,FABRICATE THE ITEM 1/2/6 & 7/8 (2off) SUB-ASSEMBLIES.,PLATE,0,2.5,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,50,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,60,WELD THE ITEM 1/2/6 & 7/8 (2off) SUB-ASSEMBLIES.,WELD,0,5.75,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,70,N.D.T. THE ITEM 1/2/6 & 7/8 (2off) SUB-ASSEMBLIES.,SUBCON,0,0,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,80,FINAL MACHINING ON THE ITEM 1/2/6 SUB-ASSEMBLY.,MACHINE,0,6,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,90,FIT ITEM 5 & THE NOZZLES TO THE ITEM 1/2/6 SUB-ASSEMBLY.,PLATE,0,1.5,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,100,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,110,WELD ITEM 5 & THE NOZZLES TO THE ITEM 1/2/6 SUB-ASSEMBLY.,WELD,0,1.5,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,120,N.D.T. THE NOZZLE NECK TO PIPE SHELL CONNECTION WELDS.,SUBCON,0,0,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,130,PROFILE & FIT THE ITEM 3 (2off) & 4 (2off) BRACING PLATES.,PLATE,0,1.5,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,150,WELD THE ITEM 3 (2off) & 4 (2off) BRACING PLATES TO THE HEAD.,WELD,0,1.25,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,160,FINAL DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,1.25,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,180,DRILL & MACHINE THE TEMPORARY TEST BLIND FOR ITEM 1.,MACHINE,0,4,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,190,"BLANK OFF, PRESSURE TEST & DRAIN THE RETURN HEAD.",GENERAL,0,4.5,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,200,COATING REQUIREMENTS ON THE REPLACEMENT RETURN HEAD.,SUBCON,0,0,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,210,PRE-DELIVERY INSPECTION OF THE COATINGS.,INSPECT,0,0.5,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,220,FIT THE FLANGE PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17501,WIP,null,1,0,1,null,null,null,E/15843-1,CHANNEL BOX N657C,Vessels and Pipework,230,DO NOT USE THESE HOURS.,GENERAL,0,38.75,0,0,FALSE,0
+17500,Created,A BLACKWOOD,1,0,1,null,null,null,E/15808-2,"ASOS - LITCHFIELD - DMS SHUTTLE EXTRACTION
+
+SITE WORK",Site work,10,GENERAL,GENERAL,0,150,0,0,FALSE,0
+17500,Created,A BLACKWOOD,1,0,1,null,null,null,E/15808-2,"ASOS - LITCHFIELD - DMS SHUTTLE EXTRACTION
+
+SITE WORK",Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17499,Created,A BLACKWOOD,1,0,1,null,null,null,E/15808-1,"ASOS - LITCHFIELD - DMS SHUTTLE EXTRACTION
+SHOP WORK",Site work,10,TOTAL HOURS,GENERAL,0,139.5,0,0,FALSE,0
+17499,Created,A BLACKWOOD,1,0,1,null,null,null,E/15808-1,"ASOS - LITCHFIELD - DMS SHUTTLE EXTRACTION
+SHOP WORK",Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,3,PLATER,PLATE,0,29.95166667,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,4,WELDER,WELD,0,36.86888889,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,5,DRILL / MACHINE,MACHINE,0,1.95,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,10,GENERAL,GENERAL,0,30.5,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,1000,DESIGN & DRAWING,SUBCON,0,0,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,1010,THIRD PARTY INSPECTION,SUBCON,0,0,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,1020,NDT,SUBCON,0,0,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,1030,PAINT,SUBCON,0,0,0,0,FALSE,0
+17498,Created,null,1,0,1,null,null,null,E/15822-1,INSTRUMENT AIR BUFFER VESSEL,Vessels and Pipework,1040,HIRE EQUIPMENT,SUBCON,0,0,0,0,FALSE,0
+17497,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-2,HELLO FRESH - DMS EXTRACTION - SITE WORK,Site work,10,GENERAL,GENERAL,0,168,0,0,FALSE,0
+17497,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-2,HELLO FRESH - DMS EXTRACTION - SITE WORK,Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,10,GENERAL,GENERAL,0,7,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,20,SAW CUT ALL SECTIONAL ITEMS,PLATE,0,5,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,30,ASSEMBLE TROLLEY (X2),PLATE,0,50,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,40,WELD TROLLEY ASSEMBLIES,WELD,0,30,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,50,MARK AND DRILL BEAMS,PLATE,0,5,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,60,PREP AND ASSEMBLE BEAMS,PLATE,0,16,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,70,WELD BEAM ASSEMBLIES,WELD,0,7,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,80,PREP AND ASSEMBLE VERTICAL TRACKS,PLATE,0,20,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,90,WELD VERTICAL TRACKS,WELD,0,8,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,100,PREP AND ASSEMBLE RUN OF RAILS,PLATE,0,4,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,110,WELD RUN OF RAILS,WELD,0,2,0,0,FALSE,0
+17496,Created,A BLACKWOOD,1,0,1,null,null,null,E/15777-1,HELLO FRESH - DMS EXTRACTION - SHOP WORK,Site work,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,0
+17495,Created,A REED,1,0,1,null,null,null,E/15244-8,MACHINING OF 3.5MM PIN HOLES ON 4 FLANGES,SALES,5,MACHINE,MACHINE,0,0,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,3,PLATER,PLATE,0,151.3,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,4,WELDER,WELD,0,425.8188889,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,5,DRILL / MACHINE,MACHINE,0,73.4,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,10,GENERAL,GENERAL,0,82.76888889,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,1000,MACHINING,SUBCON,0,0,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,1010,FORMING,SUBCON,0,0,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,1020,NDT,SUBCON,0,0,0,0,FALSE,0
+17494,Created,null,1,0,1,null,null,null,E/15433-2,GEN 4 - ANODE / RETORT - LABOUR & SUBCON,SALES,1030,TRANSPORT,SUBCON,0,0,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,3,PLATER,PLATE,0,57.25,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,4,WELDER,WELD,0,1.91888889,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,5,MACHINE / DRILL,MACHINE,0,34.7,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,10,GENERAL,GENERAL,0,31.65166667,0,1.25,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1000,MACHINING,SUBCON,0,0,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1010,NDT,SUBCON,0,0,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1020,PAINT,SUBCON,0,0,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1030,TRANSPORT,SUBCON,0,0,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1040,MACHINING,SUBCON,0,0,0,0,FALSE,0
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1050,MACHINING,SUBCON,0,0,0,0,FALSE,3
+17493,WIP,G SKELTON,1,0,1,null,null,null,E/15830-1,"JIGS - BATCH S49301, S49213, S49234 ",Structural,1060,MACHINING,SUBCON,0,0,0,0,FALSE,0
+17492,Completed,5. C SHIELS,1,1,0,14/11/2022 00:00:00,10/11/2022 00:00:00,null,E/15854-1,SOUTH BANK QUAY - SHEET PILES - OCTOBER,Structural,3,PLATER,PLATE,0,105,0,105,TRUE,0
+17492,Completed,5. C SHIELS,1,1,0,14/11/2022 00:00:00,10/11/2022 00:00:00,null,E/15854-1,SOUTH BANK QUAY - SHEET PILES - OCTOBER,Structural,4,WELDER,WELD,0,105,0,105,TRUE,0
+17492,Completed,5. C SHIELS,1,1,0,14/11/2022 00:00:00,10/11/2022 00:00:00,null,E/15854-1,SOUTH BANK QUAY - SHEET PILES - OCTOBER,Structural,10,GENERAL,GENERAL,0,6.73444444,0,6.73333333,TRUE,0
+17492,Completed,5. C SHIELS,1,1,0,14/11/2022 00:00:00,10/11/2022 00:00:00,null,E/15854-1,SOUTH BANK QUAY - SHEET PILES - OCTOBER,Structural,1000,NDT,SUBCON,0,0,0,0,TRUE,0
+17492,Completed,5. C SHIELS,1,1,0,14/11/2022 00:00:00,10/11/2022 00:00:00,null,E/15854-1,SOUTH BANK QUAY - SHEET PILES - OCTOBER,Structural,1010,HIRE EQUIPMENT,SUBCON,0,0,0,0,TRUE,11
+17491,Cancelled,null,1,0,1,13/10/2022 00:00:00,null,null,E/15864-1,RETORT & ANODES - LABOUR and SUB-CONTRACT,Vessels and Pipework,10,null,GENERAL,0,0,0,0,FALSE,0
+17490,Completed,A REED,1,1,0,26/10/2022 00:00:00,26/10/2022 00:00:00,null,E/15845-1,BLIND FLANGES / HALF COUPLINGS / SPIRAL WOUND GASKETS,Vessels and Pipework,3,PLATER,PLATE,0,1,0,2.21666667,TRUE,0
+17490,Completed,A REED,1,1,0,26/10/2022 00:00:00,26/10/2022 00:00:00,null,E/15845-1,BLIND FLANGES / HALF COUPLINGS / SPIRAL WOUND GASKETS,Vessels and Pipework,4,WELDER,WELD,0,1.46888889,0,12.05,TRUE,0
+17490,Completed,A REED,1,1,0,26/10/2022 00:00:00,26/10/2022 00:00:00,null,E/15845-1,BLIND FLANGES / HALF COUPLINGS / SPIRAL WOUND GASKETS,Vessels and Pipework,5,DRILL / MACHINE,MACHINE,0,0.8,0,4.46666666,TRUE,0
+17490,Completed,A REED,1,1,0,26/10/2022 00:00:00,26/10/2022 00:00:00,null,E/15845-1,BLIND FLANGES / HALF COUPLINGS / SPIRAL WOUND GASKETS,Vessels and Pipework,10,GENERAL,GENERAL,0,2.31888889,0,0,TRUE,0
+17490,Completed,A REED,1,1,0,26/10/2022 00:00:00,26/10/2022 00:00:00,null,E/15845-1,BLIND FLANGES / HALF COUPLINGS / SPIRAL WOUND GASKETS,Vessels and Pipework,1000,NDT,SUBCON,0,0,0,0,TRUE,1
+17489,Completed,5. C SHIELS,1,1,0,16/11/2022 00:00:00,31/10/2022 00:00:00,null,E/15863-1,SUPPLY OF WELDER TO SITE,Site work,4,WELDER,WELD,0,160,0,202,TRUE,0
+17488,WIP,null,1,0,1,null,null,null,E/15463-3,"Variation to order
+VO 22-061 Costs to weld monel segments on the flange face of one unit and then machine face.",SALES,4,WELDER,WELD,0,15,0,14.84999999,FALSE,0
+17488,WIP,null,1,0,1,null,null,null,E/15463-3,"Variation to order
+VO 22-061 Costs to weld monel segments on the flange face of one unit and then machine face.",SALES,5,machine the MONEL,MACHINE,0,0,0,0,FALSE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,3,PLATER,PLATE,0,0,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,4,WELDER,WELD,0,0.00222222,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,5,DRILL / MACHINE,MACHINE,0,0,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,6,GENERAL,GENERAL,0,0,0,5.75,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,10,RECEIPT AND INSPECTION OF MATERIALS,INSPECT,0,3,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,20,MARK POSITIONS OF HOLES IN ITEMS 5 & 6. SET OF 6 AS DRAWING & SET OF 6 MIRRORED,MACHINE,0,3,0,6.51666667,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,30,INSPECTION OF HOLE POSITIONS PRIOR TO DRILLING,INSPECT,0,2,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,40,DRILL HOLES POST INSPECTION,MACHINE,0,4.2,0,3.25,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,50,ASSEMBLE & TACK BOSSES TO ITEMS 5 & 6,PLATE,0,15.2,0,9.11666666,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,60,PRE-WELD VISUAL & DIMENSIONAL OF BOSSES,INSPECT,0,2,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,70,WELD BOSSES AND DRESS,WELD,0,12,0,11.23333333,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,80,POST WELD VISUAL & DIMENSIONAL INSPECTION OF BOSSES,INSPECT,0,2,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,90,NDT,SUBCON,0,0,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,100,"PREP AS REQUIRED, ASSEMBLE & TACK ALL ITEMS AS DRAWING ",PLATE,0,42,0,55.48333332,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,110,PRE-WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,2,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,120,WELD OUT ASSEMBLIES AND DRESS,WELD,0,25.66666667,0,26.46666668,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,130,POST WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,2,0,3.06666667,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,140,NDT,SUBCON,0,0,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,150,LOAD OUT AND DELIVER,GENERAL,0,3.8,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,1000,FORMING,SUBCON,0,0,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,1010,NDT,SUBCON,0,0,0,0,TRUE,0
+17487,Completed,null,1,1,0,11/11/2022 00:00:00,08/11/2022 00:00:00,null,E/15831-1,SHUTTERING 7250MM DIA POUR BOXES,SALES,1020,MACHINING,SUBCON,0,0,0,0,TRUE,36
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,20,POSITION THE RISER VERTICALLY & FIT THE ITEM 5 ROUND BAR.,PLATE,0,3.75,0,4.36666667,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,30,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.08333333,0,0,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,40,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,17.5,0,21.91666666,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,50,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2.5,0,0.8,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,60,FIT & BRACE THE 8no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,13.5,0,16.69999999,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,70,"PRE-WELD DIMENSIONAL, ORIENTATION AND FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,80,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,48.5,0,26.39999999,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,1.45,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,0,0,5.76666667,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,110,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL UP.,PLATE,0,1.5,0,0.66666667,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,3.75,0,4.38333333,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.16666667,0,0,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,3.5,0,7.75,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17486,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-13,48 inch Riser F Assembly & Welding. ,SALES,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,4.75,0,0,TRUE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,20,POSITION THE RISER VERTICALLY & FIT THE ITEM 5 ROUND BAR.,PLATE,0,3.75,0,0,TRUE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,30,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.08333333,0,0,TRUE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,40,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,17.5,0,16.43333333,TRUE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,50,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2.5,0,0,TRUE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,60,FIT & BRACE THE 8no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,13.5,0,8.93333333,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,70,"PRE-WELD DIMENSIONAL, ORIENTATION AND FIT UP CHECK.",INSPECT,0,0.5,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,80,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,48.5,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,3.75,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,110,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL UP.,PLATE,0,1.5,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,3.75,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.16666667,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,3.5,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17485,WIP,null,1,0,1,null,null,null,E/15797-12,48 inch Riser E Assembly & Welding. ,SALES,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,FALSE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,20,POSITION THE RISER VERTICALLY & FIT THE ITEM 5 ROUND BAR.,PLATE,0,3.75,0,9.83333333,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,30,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.08333333,0,0,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,40,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,17.5,0,12.88333333,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,50,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2.5,0,0,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,60,FIT & BRACE THE 8no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,13.5,0,10.85,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,70,"PRE-WELD DIMENSIONAL, ORIENTATION AND FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,80,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,48.5,0,38.69999999,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,3.13333333,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,3.75,0,4.3,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,110,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL UP.,PLATE,0,1.5,0,0,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,3.75,0,6.26666667,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.16666667,0,0,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,3.5,0,6.54999999,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17484,Total Qty Received,null,1,1,0,null,28/10/2022 00:00:00,null,E/15797-11,48 inch Riser D Assembly & Welding. ,SALES,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,20,POSITION THE RISER VERTICALLY & FIT THE ITEM 5 ROUND BAR.,PLATE,0,3.75,0,6.51666666,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,30,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.08333333,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,40,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,17.5,0,19.01666666,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,50,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2.5,0,2.5,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,60,FIT & BRACE THE 8no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,13.5,0,14.86666666,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,70,"PRE-WELD DIMENSIONAL, ORIENTATION AND FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,80,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,48.5,0,31.24999999,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,1.01666667,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,0,0,11.15,TRUE,3
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,110,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL UP.,PLATE,0,1.5,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,3.75,0,6.18333333,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.16666667,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,3.5,0,9.21666666,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17483,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-10,48 inch Riser C Assembly & Welding. ,SALES,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,4.75,0,0.5,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,20,POSITION THE RISER VERTICALLY & FIT THE ITEM 5 ROUND BAR.,PLATE,0,3.75,0,2.31666667,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,30,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.08333333,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,40,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,17.5,0,17.64999999,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,50,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2.5,0,3.5,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,60,FIT & BRACE THE 8no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,13.5,0,15.4,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,70,"PRE-WELD DIMENSIONAL, ORIENTATION AND FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,80,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,48.5,0,32.56666666,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,0,0,8.55,TRUE,1
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,110,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL UP.,PLATE,0,1.5,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,3.75,0,9.01666667,TRUE,1
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.16666667,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,3.5,0,13.16666666,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,4.75,0,0,TRUE,0
+17482,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-9,48 inch Riser B Assembly & Welding. ,SALES,900,NCR 22148 - WELD REPAIRS FOLLOWING MPI TO THE GRAB RAIL ASSEMBLY ON UNITS 'B' AND 'C',WELD,0,0,0,0.7,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,20,POSITION THE RISER VERTICALLY & FIT THE ITEM 5 ROUND BAR.,PLATE,0,3.75,0,2.53333333,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,30,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.08333333,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,40,WELD THE ITEM 5 ROUND BAR TO THE RISER STRUCTURE.,WELD,0,17.5,0,20.36666665,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,50,TURN THE RISER HORIZONTAL & SECURE IT TO THE MANIPULATOR.,PLATE,0,2.5,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,60,FIT & BRACE THE 8no ACTUATORS TO THE RISER STRUCTURE.,PLATE,0,13.5,0,16.56666667,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,70,"PRE-WELD DIMENSIONAL, ORIENTATION AND FIT UP CHECK.",INSPECT,0,0.5,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,80,WELD THE 8no ACTUATORS TO THE RISER STRUCTURE.,WELD,0,48.5,0,45.99999998,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,90,REMOVE THE TEMPORARY BRACING FROM THE ACTUATORS.,PLATE,0,2,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,100,FLUSH THE INTERNAL WELDS ON THE ACTUATOR CONNECTIONS.,GENERAL,0,0,0,9.3,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,110,N.D.T. THE 8no ACTUATOR TO RISER WELDED CONNECTIONS.,SUBCON,0,0,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,120,TURN THE RISER BACK TO THE VERTICAL POSITION & LEVEL UP.,PLATE,0,1.5,0,9.31666666,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,130,DRESS & FIT ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,PLATE,0,3.75,0,2.46666667,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.16666667,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,150,WELD ITEM 6 (8off) AND ITEM 7 TO THE RISER STRUCTURE.,WELD,0,3.5,0,8.7,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,160,PRE-DELIVERY DIMENSIONAL & VISUAL WELD INSPECTION.,INSPECT,0,1,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,170,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17481,Completed,null,1,1,0,25/10/2022 00:00:00,24/10/2022 00:00:00,null,E/15797-8,48 inch Riser A Assembly & Welding. ,SALES,180,FIT THE FLANGE & ACTUATOR PROTECTION & LOAD FOR DELIVERY.,GENERAL,0,4.75,0,0,TRUE,0
+17480,WIP,null,1,0,1,null,null,null,E/15797-7,48 inch Riser F Cutting & Prepping. ,SALES,20,LOCATE THE RISER ON THE ROTATORS & MARK THE CUTOUTS.,PLATE,0,3.5,0,3.31666666,TRUE,0
+17480,WIP,null,1,0,1,null,null,null,E/15797-7,48 inch Riser F Cutting & Prepping. ,SALES,30,"PRE-CUTTING DIMENSIONAL, ANGULAR & ORIENTATION CHECK.",INSPECT,0,0.25,0,0,TRUE,0
+17480,WIP,null,1,0,1,null,null,null,E/15797-7,48 inch Riser F Cutting & Prepping. ,SALES,40,CUT & PREP THE ACTUATOR CUTOUTS IN THE RISER BODY.,PLATE,0,23.75,0,9.9,FALSE,0
+17479,WIP,null,1,0,1,null,null,null,E/15797-6,48 inch Riser E Cutting & Prepping.   ,SALES,20,LOCATE THE RISER ON THE ROTATORS & MARK THE CUTOUTS.,PLATE,0,3.5,0,4.86666666,TRUE,0
+17479,WIP,null,1,0,1,null,null,null,E/15797-6,48 inch Riser E Cutting & Prepping.   ,SALES,30,"PRE-CUTTING DIMENSIONAL, ANGULAR & ORIENTATION CHECK.",INSPECT,0,0.25,0,0,TRUE,0
+17479,WIP,null,1,0,1,null,null,null,E/15797-6,48 inch Riser E Cutting & Prepping.   ,SALES,40,CUT & PREP THE ACTUATOR CUTOUTS IN THE RISER BODY.,PLATE,0,23.75,0,34.56666667,TRUE,0
+17478,WIP,null,1,0,1,null,null,null,E/15797-5,48 inch Riser D Cutting & Prepping.    ,SALES,20,LOCATE THE RISER ON THE ROTATORS & MARK THE CUTOUTS.,PLATE,0,3.5,0,4.01666667,TRUE,0
+17478,WIP,null,1,0,1,null,null,null,E/15797-5,48 inch Riser D Cutting & Prepping.    ,SALES,30,"PRE-CUTTING DIMENSIONAL, ANGULAR & ORIENTATION CHECK.",INSPECT,0,0.25,0,0,TRUE,0
+17478,WIP,null,1,0,1,null,null,null,E/15797-5,48 inch Riser D Cutting & Prepping.    ,SALES,40,CUT & PREP THE ACTUATOR CUTOUTS IN THE RISER BODY.,PLATE,0,23.75,0,27.61666666,TRUE,0
+17477,WIP,null,1,0,1,null,null,null,E/15797-4,48 inch Riser C Cutting & Prepping.    ,SALES,20,LOCATE THE RISER ON THE ROTATORS & MARK THE CUTOUTS.,PLATE,0,3.5,0,1.98333333,TRUE,0
+17477,WIP,null,1,0,1,null,null,null,E/15797-4,48 inch Riser C Cutting & Prepping.    ,SALES,30,"PRE-CUTTING DIMENSIONAL, ANGULAR & ORIENTATION CHECK.",INSPECT,0,0.25,0,0,TRUE,0
+17477,WIP,null,1,0,1,null,null,null,E/15797-4,48 inch Riser C Cutting & Prepping.    ,SALES,40,CUT & PREP THE ACTUATOR CUTOUTS IN THE RISER BODY.,PLATE,0,23.75,0,25.15000001,TRUE,0
+17476,WIP,null,1,0,1,null,null,null,E/15797-3,48 inch Riser B Cutting & Prepping.    ,SALES,20,LOCATE THE RISER ON THE ROTATORS & MARK THE CUTOUTS.,PLATE,0,3.5,0,3.18333333,TRUE,0
+17476,WIP,null,1,0,1,null,null,null,E/15797-3,48 inch Riser B Cutting & Prepping.    ,SALES,30,"PRE-CUTTING DIMENSIONAL, ANGULAR & ORIENTATION CHECK.",INSPECT,0,0.25,0,0,TRUE,0
+17476,WIP,null,1,0,1,null,null,null,E/15797-3,48 inch Riser B Cutting & Prepping.    ,SALES,40,CUT & PREP THE ACTUATOR CUTOUTS IN THE RISER BODY.,PLATE,0,23.75,0,23.28333333,TRUE,0
+17475,WIP,null,1,0,1,null,null,null,E/15797-2,48 inch Riser A Cutting & Prepping.    ,SALES,20,LOCATE THE RISER ON THE ROTATORS & MARK THE CUTOUTS.,PLATE,0,3.5,0,4.86666667,TRUE,0
+17475,WIP,null,1,0,1,null,null,null,E/15797-2,48 inch Riser A Cutting & Prepping.    ,SALES,30,"PRE-CUTTING DIMENSIONAL, ANGULAR & ORIENTATION CHECK.",INSPECT,0,0.25,0,1.33333333,TRUE,0
+17475,WIP,null,1,0,1,null,null,null,E/15797-2,48 inch Riser A Cutting & Prepping.    ,SALES,40,CUT & PREP THE ACTUATOR CUTOUTS IN THE RISER BODY.,PLATE,0,23.75,0,22.8,TRUE,0
+17474,Completed,null,1,1,0,03/10/2022 00:00:00,03/10/2022 00:00:00,null,E/15795-2,"VARIATION TO ORDER
+
+VO 22-063 - BONUS PAYMENT FOR EARLY DELIVERY OF BOTTOM DISHED END ON PO POR-33652",SALES,10,null,GENERAL,0,0,0,0,TRUE,0
+17473,WIP,null,1,0,1,null,null,null,E/15586-2,"VARIATION TO ORDER
+
+VO 22-064 - CLIENT MODIFICATIONS",SALES,10,null,GENERAL,0,0,0,30.16666666,FALSE,1
+17473,WIP,null,1,0,1,null,null,null,E/15586-2,"VARIATION TO ORDER
+
+VO 22-064 - CLIENT MODIFICATIONS",SALES,20,MACHINING,SUBCON,0,0,0,0,FALSE,1
+17473,WIP,null,1,0,1,null,null,null,E/15586-2,"VARIATION TO ORDER
+
+VO 22-064 - CLIENT MODIFICATIONS",SALES,30,MACHINING,SUBCON,0,0,0,0,FALSE,1
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,10,RECEIVE AND CHECK MATERIALS INCLUDING HANDLING.,GENERAL,0,5.5,0,11.21666666,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,20,FORM THE HOPPER UPPER & LOWER CONE SECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,30,ASSEMBLE & BRACE THE HOPPER UPPER & LOWER CONES.,PLATE,0,14.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,40,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHECK.",INSPECT,0,0.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,50,WELD THE LONGIT SEAMS IN THE UPPER & LOWER CONES.,WELD,0,14.75,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,60,ASSEMBLE THE UPPER TO LOWER CONE CIRC SEAM.,PLATE,0,9.75,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,70,"PRE-WELD DIMENSIONAL, ORIENTATION & FIT UP CHEK.",INSPECT,0,0.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,80,WELD THE UPPER TO LOWER CONE CIRC SEAM.,WELD,0,11.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,90,"PREP & ASSEMBLE THE BASE PLATE, TOP FLANGE & COVER PLATE.",PLATE,0,13.75,0,15.41666666,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,100,PRE WELD DIMENSIONAL CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,110,"WELD THE SEAMS IN THE BASE PLATE, TOP FLANGE & COVER PLATE.",WELD,0,12.75,0,13.1,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,120,ASSEMBLE AND DRILL THE 5no ACCESS HATCHES & COVER PLATES.,PLATE,0,15.75,0,8.33333333,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,130,PRE WELD DIMENSIONAL CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,140,WELD THE 5no ACCESS HATCH SUB-ASSEMBLIES.,WELD,0,15.5,0,8.25,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,150,N.D.T. THE ACCESS HATCH SUB-ASSEMBLIES.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,160,"DRESS, MARK & MATCH DRILL THE TOP COVER PLATE & TOP FLANGE.",PLATE,0,10.5,0,0,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,170,FIT THE HATCHES INTO THE BASE PLATE (2off) & COVER PLATE (2off).,PLATE,0,2.75,0,2.73333333,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,180,PRE WELD DIMENSIONAL CHECK.,INSPECT,0,0.25,0,0,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,190,WELD THE HATCHES INTO THE BASE PLATE (2off) & COVER PLATE (2off).,WELD,0,8.75,0,6.66666667,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,200,FIT THE BASE PLATE & TOP FLANGE PLATE TO THE CONE ASSEMBLY.,PLATE,0,19.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,210,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,220,WELD THE BASE PLATE & TOP FLANGE PLATE TO THE CONE.,WELD,0,18.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,230,"FIT THE CONE ACESS HATCH & ITEMS F1001, F1002, F1004 & F1012.",PLATE,0,16.75,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,240,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,1,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,250,"WELD THE CONE ACESS HATCH & ITEMS F1001, F1002, F1004 & F1012.",WELD,0,12,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,260,PRE-COATING DIMENSIONAL & VISUAL INSPECTION OF THE HOPPER.,INSPECT,0,2,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,270,COMPLETE ALL REMAINING N.D.T REQUIREMENTS ON THE HOPPER.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,280,"SAW CUT, MARK & DRILL THE S.H.S. COMPONENTS ON Drg No (A)-B1.",PLATE,0,7.5,0,0,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,290,PRODUCE A LAYOUT & ASSEMBLE THE BEAM ON Drg No (A)-B1.,PLATE,0,6.5,0,3.36666667,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,300,PRE-WELD DIMENSIONAL CHECK OF THE BEAM FABRICATION.,INSPECT,0,0.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,310,WELD THE BEAM FABRICATION ON Drg No (A)-B1.,WELD,0,7.75,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,320,PRE-COATING DIMENSIONAL & VISUAL INSPECTION OF THE BEAM.,INSPECT,0,0.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,330,COMPLETE ALL  N.D.T REQUIREMENTS ON THE BEAM.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,340,"CUT, FORM & DRILL THE LADDER COMPONENTS ON Drg (A)-LD1.",PLATE,0,11.75,0,13.81666666,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,350,ASSEMBLE THE LADDER SHOWN ON DRAWING (A)-LD1.,PLATE,0,6.5,0,12.36666666,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,360,PRE-WELD DIMENSIONAL AND ALIGNMENT CHECK.,INSPECT,0,1.25,0,0,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,370,WELD THE LADDER SHOWN ON DRAWING (A)-LD1.,WELD,0,9.75,0,10.83333333,TRUE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,380,PRE-COATING DIMENSIONAL & VISUAL INSPECTION OF THE LADDER.,INSPECT,0,0.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,390,COMPLETE ALL N.D.T REQUIREMENTS ON THE LADDER.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,400,CUT & DRILL THE COMPONENTS & ASSEMBLE THE RAILING POSTS.,PLATE,0,5.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,410,PRE-WELD DIMENSIONAL CHECK.,INSPECT,0,0.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,420,WELD THE RAILING POSTS.,WELD,0,2.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,430,N.D.T. REQUIREMENTS ON THE RAILING POSTS.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,440,FORM THE TUBULAR HANDRAIL SECTIONS.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,450,"MARK, CUT & DRESS THE 14no TUBULAR HANDRAIL SECTIONS.",PLATE,0,5.25,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,460,PRE-COATING INSPECTION OF THE HANDRAIL COMPONENTS.,INSPECT,0,0.5,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,470,COATING REQUIREMENTS ON THE BRIQUETTE HOPPER COMPONENTS.,SUBCON,0,0,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,480,LOAD THE BRIQUETTE HOPPER COMPONENTS FOR DELIVERY.,GENERAL,0,1.75,0,0,FALSE,0
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,1030,FORMING,SUBCON,0,0,0,0,FALSE,1
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,1040,FORMING,SUBCON,0,0,0,0,FALSE,1
+17472,WIP,null,1,0,1,null,null,null,E/15813-1,BRIQUETTE HOPPER,Vessels and Pipework,1050,FORMING,SUBCON,0,0,0,0,FALSE,2
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,3,PLATER,PLATE,0,0,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,4,WELDER,WELD,0,0,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,5,DRILL / MACHINE,MACHINE,0,0,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,6,GENERAL,GENERAL,0,0,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,10,MATERIAL RECEIPT AND INSPECTION,INSPECT,0,0.3,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,20,DRILL AS PER DRAWING ESS006865 REV A,MACHINE,0,0.5,0,0.58333333,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,30,ASSEMBLE AS PER DRAWING ESS006865 REV A,PLATE,0,0.5,0,0.63333333,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,40,PRE-WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,50,POOL WELD ASSEMBLY,WELD,0,1,0,0.38333333,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,60,POST WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,70,"DELIVER / COLLECT, TO & FROM PAINTERS",SUPPORT,0,2,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,1000,FORMING,SUBCON,0,0,0,0,TRUE,0
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,1010,PAINT,SUBCON,0,0,0,0,TRUE,1
+17471,Completed,null,1,1,0,10/11/2022 00:00:00,03/11/2022 00:00:00,null,E/15812-1,MC CAMERA KICK PLATE ASSEMBLY,Structural,1020,TRANSPORT,SUBCON,0,0,0,0,TRUE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,3,PLATER,PLATE,0,0,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,4,WELDER,WELD,0,0,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,5,GENERAL,GENERAL,0,0,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,10,RECEIPT & INSPECTION OF FREE ISSUE MATERIALS,GENERAL,0,0.28,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,20,ASSEMBLY OF ITEM 1 TO ITEM 2 & ITEM 3 TO ITEM 2,PLATE,0,3.5,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,30,PRE-WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.28,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,40,WELD ITEM 1 TO ITEM 2 & ITEM 3 TO ITEM 2,WELD,0,6.91722222,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,50,POST WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.28,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,60,NDT,SUBCON,0,0,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,70,FINAL INSPECTION,INSPECT,0,0.5,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,1000,THIRD PARTY INSPECTION,SUBCON,0,0,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,1010,NDT,SUBCON,0,0,0,0,FALSE,0
+17470,Created,null,1,0,1,null,null,null,E/15549-1,SHORT SHIELD PLUG FABRICATION,Structural,1020,LOAD & DELIVER TO BEL,GENERAL,0,3.80888889,0,0,FALSE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,3,PLATER,PLATE,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,4,WELDER,WELD,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,5,DRILL / MACHINE,MACHINE,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,6,GENERAL,GENERAL,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,10,"RECEIPT AND INSPECTION OF ALL MATERIALS FOR N-19563, N19654, N-19565, N-19566",GENERAL,0,2,0,1.48333334,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,20,N-19563 - ASSEMBLE AND TACK BOSSES AND REINFORCING RINGS TO MAIN PLATE,PLATE,0,2.5,0,1.23333333,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,30,N-19563 PRE-WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,40,N-19563  - WELD ASSEMBLY,WELD,0,3.5,0,6.71666666,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,50,N19563 -  POST WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,60,NDT,SUBCON,0,0,0,0,TRUE,1
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,70,N-19564 ASSEMBLE BOSSES TO MAIN PLATE,PLATE,0,2,0,1.96666667,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,80,N-19564 PRE-WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,90,N-19564 WELD BOSSES,WELD,0,2.5,0,4.78333333,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,100,N-19564 POST WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,110,NDT,SUBCON,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,120,N-19565  - CUT PIPES AND ASSEMBLE NOZZLES,PLATE,0,2.5,0,1.11666667,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,130,N-19565 PRE-WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,140,N-19565  - WELD NOZZLES,WELD,0,4,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,150,N-19565  POST WELD INSPECTION OF NOZZLES,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,160,"N-19565 - BEVEL & ASSEMBLE STIFFENERS, BOSSES, LUG, NOZZLES TO BASE PLATE",PLATE,0,6,0,7.83333333,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,170,N-19565  PRE-WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,180,N-19565  WELD ASSEMBLY,WELD,0,13,0,6.35,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,190,N-19565 POST WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,200,NDT,SUBCON,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,210,"N-19566  PREP & ASSEMBLY OF STIFFENERS, BRACKET AND BOSSES",PLATE,0,4.5,0,11.43333333,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,220,N-19566 PRE-WELD VISUAL AND DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,230,N-19566  - WELD ASSEMBLY,WELD,0,9,0,2.71666667,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,240,N-19566 POST WELD VISUAL & DIMENSIONAL INSPECTION,INSPECT,0,0.5,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,250,NDT,SUBCON,0,0,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,260,PRE & POST MANUFACTURE MACHINING FOR N-19563 / N-19564 / N-19565 / N-19566,MACHINE,0,20.23555556,0,12.16666666,TRUE,6
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,270,FINAL INSPECTION OF ALL UNITS,INSPECT,0,4,0,0,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,280,"PACKAGE FOR DELIVERY, LOADOUT & DELIVER TO BEL 4 UNITS",GENERAL,0,6,0,3.5,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,900,"NCR 22145; 
+DRAWING N-18965, STIFFENERS FITTED AND WELDED INCORRECTLY. REMOVE STIFFS, DRESS AREA, REFIT REPLACEMENTS",PLATE,0,0,0,5.76666666,TRUE,0
+17469,Completed,null,1,1,0,27/10/2022 00:00:00,27/10/2022 00:00:00,null,E/15824-1,CA 90 Backing Plates,Vessels and Pipework,2010,NDT,SUBCON,0,0,0,0,TRUE,0
+17468,Completed,null,1,1,0,03/10/2022 00:00:00,03/10/2022 00:00:00,null,E/14891-18,"VARIATION TO ORDER
+
+VO 22-062
+September Storage of Vessels 5 & 6",SALES,10,null,GENERAL,0,0,0,0,TRUE,0
+17467,Total Qty Received,null,1,1,0,null,14/10/2022 00:00:00,null,E/15498-7,AMAZON - 4 HINGED LADDER ACCESS COVERS (FOR COLLECTOR & MERGE PLATFORMS),SALES,10,"DRILL HOLES IN SHOP
+",GENERAL,0,6.6,0,5.19999999,FALSE,0
+17467,Total Qty Received,null,1,1,0,null,14/10/2022 00:00:00,null,E/15498-7,AMAZON - 4 HINGED LADDER ACCESS COVERS (FOR COLLECTOR & MERGE PLATFORMS),SALES,1000,SUB CONTRACT WORK,SUBCON,0,0,0,0,FALSE,2
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,20,NDT,SUBCON,0,0,0,0,TRUE,1
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,100,PRE-ASSEMBLY MACHINING OF THE FLANGE COMPONENTS.,SUBCON,0,0,0,0,TRUE,0
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,110,SAW CUT THE PIPES & FIT THE PRE-MACHINED FLANGES.,PLATE,0,5.75,0,16.38333333,TRUE,0
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,120,PRE-WELD DIMENSIONAL & ORIENTATION CHECK OF THE SPOOLS.,INSPECT,0,0.5,0,0.31666667,TRUE,0
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,130,PROTECT THE FACES & WELD THE FLANGES TO THE PIPES.,WELD,0,7,0,0,TRUE,0
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,140,MARK/DRILL THE PIPES ON Drg 22-J4969-010782 & 22-J4969-010783.,MACHINE,0,1.5,0,0.61666667,TRUE,1
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,150,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,0.75,0,0,TRUE,0
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,160,COMPLETE ALL N.D.T. REQUIREMENTS ON THE PIPE SPOOLS.,SUBCON,0,0,0,0,TRUE,0
+17466,Completed,null,1,1,0,11/11/2022 00:00:00,26/10/2022 00:00:00,null,E/15802-1,GROUND FLARE KO PUMP,Vessels and Pipework,170,PROTECT THE FLANGE FACES & LOAD FOR DELIVERY.,GENERAL,0,1,0,0,TRUE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,3,PLATER,PLATE,0,77,0,20.98333335,FALSE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,4,WELDER,WELD,0,0,0,22.50000001,TRUE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,5,DRILL / MACHINE,MACHINE,0,0,0,2.73333334,TRUE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,10,GENERAL,GENERAL,0,0,0,3.03333333,FALSE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,1000,DESIGN & DRAWING,SUBCON,0,0,0,0,FALSE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,1010,NDT,SUBCON,0,0,0,0,FALSE,0
+17465,Total Qty Received,null,1,1,0,null,07/10/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,1020,HIRE EQUIPMENT,SUBCON,0,0,0,0,FALSE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,3,PLATER,PLATE,0,82.5,0,2.6,TRUE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,4,WELDER,WELD,0,0,0,7.15,TRUE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,5,DRILL / MACHINE,MACHINE,0,0,0,0,TRUE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,10,GENERAL,GENERAL,0,0,0,5.66666667,FALSE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,1000,DESIGN & DRAWING,SUBCON,0,0,0,0,FALSE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,1010,NDT,SUBCON,0,0,0,0,FALSE,0
+17464,Total Qty Received,null,1,1,0,null,29/09/2022 00:00:00,null,E/15783-1,"DONALDSON FILTER - 
+PLENUM REPLACEMENT",Structural,1020,HIRE EQUIPMENT,SUBCON,0,0,0,0,FALSE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,3,PLATER,PLATE,0,10.01666667,0,11.88333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,4,WELDER,WELD,0,5.05166667,0,8.36666667,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,5,DRILL / MACHINE,MACHINE,0,10.2,0,0,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,10,GENERAL,GENERAL,0,22.4,0,24.13333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,20,SALVAGE GIRTH FLANGE,PLATE,0,12,0,7.08333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,30,SET UP NOZZLES 'E' AND 'H',PLATE,0,2,0,2.36666667,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,35,PRE WELD DIMENSIONAL CHECK,INSPECT,0,0,0,0,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,40,WELD NOZZLES 'E' AND 'H' SUB ASSEMBLIES,WELD,0,4,0,4.48333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,50,PREP WORK ON THE DISH END,PLATE,0,2.03333333,0,2.33333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,60,PREP AND FORM THE REPLACEMENT SHELL PLATE,PLATE,0,4,0,3.53333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,70,WELD THE LONGIT ON THE REPLACEMENT SHELL PLATE,WELD,0,5,0,4.73333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,90,FIT THE REPLACEMENT SHELL TO THE DISH END,PLATE,0,5,0,5.8,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,95,PRE WELD DIMENSIONAL CHECK,INSPECT,0,0,0,0,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,100,WELD THE DISH END TO THE REPLACEMENT SHELL,WELD,0,7,0,9.5,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,101,MARK / FORM / FIT THE INSULATION RING,PLATE,0,3,0,2.4,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,102,WELD INSULATION RING COMPONENTS,WELD,0,4,0,3.6,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,110,FIT THE RECOVERED FLANGE TO THE SHELL PLATE,PLATE,0,6,0,5.05,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,115,PRE WELD DIMENSIONAL CHECK,INSPECT,0,0,0,0,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,120,WELD THE FLANGE TO THE SHELL PLATE,WELD,0,10,0,16.49999999,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,130,MARK / PROFILE / FIT NOZZLES 'H' AND 'D',PLATE,0,6,0,5.28333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,131,PROFILE / MARK / FIT THE WEAR PLATE,PLATE,0,3,0,2.33333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,132,WELD THE WEAR PLATE,WELD,0,3,0,1.1,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,135,PRE WELD DIMENSIONAL CHECK,INSPECT,0,0,0,0,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,140,WELD NOZZLES 'H' AND 'D',WELD,0,6,0,6.58333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,145,"MARK AND DRILL BLIND, M/C GRAMAPHONE ONTO FACE",MACHINE,0,6,0,29.58333333,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,150,CARRY OUT MINIMUM SKIM TO FLANGE FACE TO ENSURE SQUARENESS TO VESSEL BODY,MACHINE,0,5,0,8.14999999,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,160,COMPLETE FINAL DIMENSIONAL INSPECTION,INSPECT,0,0,0,0,TRUE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,170,NDT,SUBCON,0,0,0,0,TRUE,1
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,180,"BLANK OFF, FILL AND HYDRO TEST TO 11.6 barg",GENERAL,0,7,0,41.79999999,TRUE,1
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,1010,HIRE EQUIPMENT,SUBCON,0,0,0,0,FALSE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,1020,FORMING,SUBCON,0,0,0,0,FALSE,0
+17463,Completed,null,1,1,0,05/10/2022 00:00:00,28/09/2022 00:00:00,null,E/15795-1,COL401 BOTTOM DISHED END,Vessels and Pipework,1030,THIRD PARTY INSPECTION,SUBCON,0,0,0,0,FALSE,1
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,19.45,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,18.86666667,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,1.41666667,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,26.05,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,15.75,0,15.35000001,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,0,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,4.25,0,5.6,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,3.75,0,11.23333333,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,12,0,33.76666664,TRUE,300
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,1.48333333,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,77,0,38.23333332,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,8.7,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,2.68333333,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,6.25,0,3.63333333,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,7.33333333,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,TRUE,0
+17462,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-43,Section 41 – 15mm thick 3 Ring Casing.,SALES,900,"NCR 22150
+REMEDIAL WELDING AND DRESSING FOLLOWING NDT",WELD,0,0,0,11.34999999,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,13.31666667,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,11.90000001,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0.88333333,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,11.44999999,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,15.75,0,11.04999999,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,1.53333333,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,4.25,0,3.15,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,3.75,0,1.28333333,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,12,0,30.81666668,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0.28333333,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,77,0,60.6,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,7.44999999,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,6.25,0,7.51666667,TRUE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,6.71666666,TRUE,1
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17461,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-42,Section 40 – 15mm thick 3 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,10.9,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,30.45,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,1.41666667,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,20.33333334,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,15.75,0,15.99999999,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,4.25,0,7.31666666,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,3.75,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,12,0,39.04999999,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,77,0,36.68333333,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,8.75,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,6.25,0,8.35,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,4.5,TRUE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17460,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-41,Section 39 – 15mm thick 3 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,3.56666667,FALSE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,14.86666667,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,14.4,TRUE,60
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,2,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,21.63333334,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,15.75,0,17.88333332,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,0.06666667,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,4.25,0,6.7,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,3.75,0,2.7,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,12,0,22.08333333,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,77,0,29.88333333,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,4.63333333,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,6.25,0,23.55,TRUE,1
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,3.81666666,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17459,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-40,Section 38 – 15mm thick 3 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0.5,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,1.18333333,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,17.68333334,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,24.26666667,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,8.23333333,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,21,0,21.71666666,TRUE,1
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,0,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,5.5,0,1.73333333,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,5,0,9.5,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,16,0,61.71666667,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,98.25,0,67.33333329,TRUE,174580
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,6.7,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,7.5,0,9.93333334,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,3.05,TRUE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,3.91666667,FALSE,0
+17458,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-39,Section 37 – 15mm thick 4 Ring Casing.,SALES,900,NCR 22151 - WELD REPAIRS TO SECTION 'A' LONGIT,WELD,0,0,0,14.01666666,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,10,general,GENERAL,0,0,0,0.33333333,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,2.63333334,TRUE,1
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,7.75000001,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,20.61666666,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,17.45000001,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,26.25,0,29.33333333,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,6.75,0,12.43333333,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,6.25,0,4,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,20,0,45.86666666,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,119.5,0,57.11666667,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,1.01666666,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,8.75,0,16.66666667,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,8.33333333,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,TRUE,0
+17457,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-38,Section 36 – 15mm thick 5 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,3,FALSE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,10,null,GENERAL,0,0,0,3,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,21.51666666,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,32.81666665,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,13.76666666,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,31.5,0,46.29999999,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,0.75,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,8,0,15.31666666,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,7.5,0,4.41666667,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,24,0,72.46666664,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,140.75,0,61.58333333,TRUE,174560
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,11.63333333,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,10,0,15.11666666,TRUE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,0,FALSE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17456,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-37,Section 35 – 15mm thick 6 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,10,null,GENERAL,0,0,0,2,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,7.61666666,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,19.58333333,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,8.4,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,36.75,0,35.31666666,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,1,0,0,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,9.25,0,12.78333333,TRUE,2
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,8.75,0,4.95,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,28,0,91.38333331,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,162,0,65.19999998,TRUE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,0.05,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,11.25,0,0,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,1.5,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17455,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-36,Section 34 – 15mm thick 7 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,1.5,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,10,null,GENERAL,0,0,0,7.08333333,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,11.4,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,14.18333332,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,12.7,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,36.75,0,44.18333333,TRUE,191995
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,1,0,0,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,9.25,0,14.59999999,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,8.75,0,5.53333333,TRUE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,28,0,43.01666666,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,162,0,2.18333333,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,0.53333333,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,11.25,0,0,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,0,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,FALSE,0
+17454,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-35,Section 33 – 15mm thick 7 Ring Casing.,SALES,900,"NCR 22154
+REPAIR 3 X WELDS IN LONGITS",WELD,0,0,0,11.85,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,10,null,GENERAL,0,0,0,2,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,0,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,16.76666667,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,25.21666667,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,8.2,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,36.75,0,35.78333334,TRUE,17455
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,1,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,9.25,0,17.46666665,TRUE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,8.75,0,4.15,TRUE,1
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,28,0,6.83333333,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,162,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,1.9,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,11.25,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17453,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-34,Section 32 – 15mm thick 7 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,1,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,11.43333333,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,23.46666666,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,7.83333333,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,36.75,0,34.31666667,TRUE,3
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,1,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,9.25,0,14.56666668,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,8.75,0,0.5,TRUE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,28,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,162,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,0.38333333,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,11.25,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17452,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-33,Section 31 – 15mm thick 7 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,20,PRE-WELD DIMENSIONAL & ALIGNMENT CHECK OF THE STRAKES.,INSPECT,0,0.75,0,1,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,30,WELD THE INTERNAL STRONGBACKS ON THE CASING STRAKES.,WELD,0,0.5,0,0,TRUE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,40,WELD THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,WELD,0,16.25,0,11.35,TRUE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,50,N.D.T. THE LONGITUDINAL SEAMS IN THE CASING STRAKES.,SUBCON,0,0,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,60,ASSEMBLE THE CIRCUMFERENTIAL SEAMS IN THE CASING.,PLATE,0,12,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,70,"PRE-WELD DIMENSIONAL,ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,2.5,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,80,WELD THE INTERNAL CIRCUMFERENTIAL SEAMS IN THE CASING.,WELD,0,18.25,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,90,FABRICATE THE P.F.C. RINGS & FIT THE COUPLING & DRAW CLEATS.,PLATE,0,36.75,0,22.6,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,100,"PRE-WELD DIMENSIONAL, ORIENTATION & ALIGNMENT CHECK.",INSPECT,0,1,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,110,WELD ONE END OF THE P.F.C. INFILL PIECE & THE COUPLING.,WELD,0,9.25,0,6.76666667,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,120,REMOVE THE SCALE FROM THE CASING IN THE P.F.C. LOCATIONS.,GENERAL,0,8.75,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,130,MARK & FIT THE P.F.C. RINGS ONTO THE CASING SECTION.,PLATE,0,28,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,140,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,150,WELD THE EXTERNAL CIRC SEAMS & THE P.F.C.'s TO THE CASING.,WELD,0,162,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,160,"MARK,DRESS,PREP & FIT THE PADEYES & TEMPORARY ""SPIDER"".",PLATE,0,5.5,0,0.81666667,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,170,PRE-WELD DIMENSIONAL AND ORIENTATION CHECK.,INSPECT,0,0.5,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,180,"WELD THE SECOND JOINT IN THE P.F.C's,THE PADEYES & ""SPIDER"".",WELD,0,11.25,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,190,PRE-DELIVERY DIMENSIONAL AND VISUAL INSPECTION.,INSPECT,0,2.5,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,200,COMPLETE ALL REMAINING N.D.T. REQUIREMENTS.,SUBCON,0,0,0,0,FALSE,0
+17451,WIP,S ARMSTRONG,1,0,1,null,null,null,E/15598-32,Section 30 – 15mm thick 7 Ring Casing.,SALES,210,LOAD THE CASING SECTION FOR DELIVERY.,GENERAL,0,2,0,0,FALSE,0
